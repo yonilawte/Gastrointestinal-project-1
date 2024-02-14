@@ -51,6 +51,7 @@ The following results are provided:
   <p align="center">
     <img src="https://github.com/yonilawte/Gastrointestinal-project-1/blob/main/images/loss.png?raw=true" alt=""/>
   </p>
+  
 2. **Prediction Outputs:** Examples of the model's predictions, showcasing its ability to detect polyps.
   <p align="center">
     <img src="https://github.com/yonilawte/Gastrointestinal-project-1/blob/main/images/predict.png?raw=true" alt=""/>
